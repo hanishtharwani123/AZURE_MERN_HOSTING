@@ -1,4 +1,4 @@
-# MERN Stack Web App Deployment on Azur
+# MERN Stack Web App Deployment on Azure
 
 This repository contains the necessary steps and code to deploy a MERN (MongoDB, Express.js, React, Node.js) web application on Microsoft Azure. Follow the instructions below to set up and deploy your MERN stack web app.
 
